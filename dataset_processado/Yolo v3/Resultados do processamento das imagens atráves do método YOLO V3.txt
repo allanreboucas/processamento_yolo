@@ -1,0 +1,199 @@
+data/dataset/f1.png: Predicted in 0.058770 seconds.
+motorbike: 96%
+car: 100%
+car: 97%
+car: 75%
+person: 98%
+person: 76%
+
+data/dataset/f2.png: Predicted in 0.058919 seconds.
+truck: 76%
+truck: 74%
+bus: 69%
+truck: 70%
+car: 100%
+person: 95%
+
+data/dataset/f3.png: Predicted in 0.058803 seconds.
+motorbike: 92%
+motorbike: 67%
+car: 52%
+person: 96%
+person: 96%
+person: 58%
+
+data/dataset/f4.png: Predicted in 0.060372 seconds.
+truck: 75%
+truck: 56%
+car: 99%
+car: 96%
+car: 95%
+car: 92%
+car: 91%
+
+data/dataset/f5.png: Predicted in 0.058925 seconds.
+motorbike: 96%
+motorbike: 86%
+motorbike: 52%
+person: 100%
+person: 78%
+
+data/dataset/f6.png: Predicted in 0.062497 seconds.
+car: 94%
+
+data/dataset/f7.png: Predicted in 0.058792 seconds.
+truck: 84%
+motorbike: 97%
+car: 51%
+person: 79%
+
+data/dataset/f8.png: Predicted in 0.058783 seconds.
+car: 86%
+
+data/dataset/f9.png: Predicted in 0.060146 seconds.
+car: 98%
+car: 77%
+
+data/dataset/f10.png: Predicted in 0.060536 seconds.
+bird: 91%
+bird: 89%
+bird: 83%
+bird: 59%
+car: 99%
+car: 92%
+
+data/dataset/f11.png: Predicted in 0.058816 seconds.
+motorbike: 96%
+car: 92%
+car: 82%
+car: 81%
+car: 62%
+person: 83%
+
+data/dataset/f12.png: Predicted in 0.058957 seconds.
+bird: 58%
+bench: 62%
+car: 98%
+car: 94%
+car: 51%
+
+data/dataset/f13.png: Predicted in 0.060394 seconds.
+motorbike: 93%
+motorbike: 88%
+car: 58%
+person: 92%
+
+data/dataset/f14.png: Predicted in 0.058973 seconds.
+car: 100%
+car: 84%
+car: 71%
+
+data/dataset/f15.png: Predicted in 0.062636 seconds.
+motorbike: 97%
+car: 95%
+car: 68%
+car: 61%
+person: 96%
+
+data/dataset/f16.png: Predicted in 0.058890 seconds.
+truck: 95%
+car: 100%
+car: 94%
+car: 90%
+person: 99%
+person: 93%
+
+data/dataset/f17.png: Predicted in 0.062488 seconds.
+car: 99%
+car: 80% errado (motorbike)
+
+data/dataset/f18.png: Predicted in 0.058627 seconds.
+traffic light: 55%
+car: 80%
+car: 69%
+
+data/dataset/f19.png: Predicted in 0.058725 seconds.
+car: 100%
+car: 97%
+car: 90%
+
+data/dataset/f20.png: Predicted in 0.058876 seconds.
+person: 71%
+motorbike: 79%
+person: 54%
+motorbike: 69%
+motorbike: 67%
+motorbike: 51% errado (mesmo objeto0
+person: 99%
+person: 55%
+
+data/dataset/f21.png: Predicted in 0.058759 seconds.
+traffic light: 91%
+traffic light: 71%
+car: 92%
+person: 87%
+person: 83%
+
+data/dataset/f22.png: Predicted in 0.058788 seconds.
+traffic light: 80%
+traffic light: 78%
+traffic light: 70%
+car: 100%
+car: 81%
+car: 73%
+car: 54%
+person: 87%
+
+data/dataset/f23.png: Predicted in 0.058858 seconds.
+car: 100%
+car: 97%
+person: 80
+
+data/dataset/f24.png: Predicted in 0.058944 seconds.
+motorbike: 58%
+car: 85%
+
+
+data/dataset/f25.png: Predicted in 0.058877 seconds.
+truck: 69% errado (mesmo objeto)
+car: 72%
+motorbike: 92%
+motorbike: 61% errado (bicicleta)
+car: 99%
+person: 90%
+person: 83%
+
+data/dataset/f26.png: Predicted in 0.061804 seconds.
+bird: 53%
+car: 95%
+car: 85%
+car: 75%
+car: 58%
+
+data/dataset/f27.png: Predicted in 0.058835 seconds.
+truck: 86%
+car: 99%
+car: 88%
+person: 70%
+
+data/dataset/f28.png: Predicted in 0.058784 seconds.
+truck: 78% errado (carro)
+car: 90%
+car: 85%
+car: 54%
+car: 51%
+
+data/dataset/f29.png: Predicted in 0.058782 seconds.
+motorbike: 73%
+car: 100%
+car: 96%
+car: 60%
+
+data/dataset/f30.png: Predicted in 0.059899 seconds.
+car: 91%
+bicycle: 94%
+person: 98%
+
+
+
+
