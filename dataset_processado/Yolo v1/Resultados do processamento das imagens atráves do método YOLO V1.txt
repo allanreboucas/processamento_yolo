@@ -1,129 +1,98 @@
-data/dataset/f1.png: Predicted in 0.114383 seconds. - esperado 8
+data/dataset/f1.png: Predicted in 0.114383 seconds. 
 person: 20%
 car: 60%
 
-data/dataset/f1.png: Predicted in 0.114383 seconds. - esperado 10
+data/dataset/f1.png: Predicted in 0.114383 seconds. 
 person: 20%
 car: 60%
 
-data/dataset/f3.png: Predicted in 0.114270 seconds. - esperado 4
+data/dataset/f3.png: Predicted in 0.114270 seconds. 
 nada
 
-data/dataset/f4.png: Predicted in 0.122075 seconds. - esperado 6
+data/dataset/f4.png: Predicted in 0.122075 seconds. 
 car: 58%
 car: 32%
 
-data/dataset/f5.png: Predicted in 0.115912 seconds. - esperado 1
+data/dataset/f5.png: Predicted in 0.115912 seconds. 
 person: 45%
 motorbike: 31%
 
-data/dataset/f6.png: Predicted in 0.117565 seconds. - esperado 2
+data/dataset/f6.png: Predicted in 0.117565 seconds.
 car: 31%
 
-data/dataset/f7.png: Predicted in 0.116183 seconds. - esperado 5
+data/dataset/f7.png: Predicted in 0.116183 seconds.
 car: 24%
 
-data/dataset/f8.png: Predicted in 0.114502 seconds. - esperado 1
+data/dataset/f8.png: Predicted in 0.114502 seconds.
 car: 20%
 
-data/dataset/f9.png: Predicted in 0.114450 seconds. - esperado 6
+data/dataset/f9.png: Predicted in 0.114450 seconds.
 car: 40%
 
-data/dataset/f10.png: Predicted in 0.114624 seconds. - esperado 2
+data/dataset/f10.png: Predicted in 0.114624 seconds.
 car: 35%
 
-data/dataset/f11.png: Predicted in 0.113621 seconds. - esperado 7
+data/dataset/f11.png: Predicted in 0.113621 seconds.
 nada
 
-data/dataset/f12.png: Predicted in 0.119282 seconds. - esperado 3
+data/dataset/f12.png: Predicted in 0.119282 seconds.
 car: 76%
 
-data/dataset/f13.png: Predicted in 0.113106 seconds. - esperado 8
+data/dataset/f13.png: Predicted in 0.113106 seconds. 
 person: 39%
 
-data/dataset/f14.png: Predicted in 0.116839 seconds. - esperado 3
+data/dataset/f14.png: Predicted in 0.116839 seconds.
 car: 28%
 
-data/dataset/f15.png: Predicted in 0.114293 seconds. - esperado 5
+data/dataset/f15.png: Predicted in 0.114293 seconds.
 car: 26%
 
-data/dataset/f16.png: Predicted in 0.113463 seconds. - esperado 6
+data/dataset/f16.png: Predicted in 0.113463 seconds.
 person: 24%
 car: 72%
-bus: 29% - errado (caminhão)
+bus: 29% - errado (caminhĂ£o)
 
-data/dataset/f17.png: Predicted in 0.115470 seconds. - esperado 3
+data/dataset/f17.png: Predicted in 0.115470 seconds.
 car: 67%
 
-data/dataset/f18.png: Predicted in 0.118331 seconds. - esperado 8
+data/dataset/f18.png: Predicted in 0.118331 seconds.
 car: 27%
 
-data/dataset/f19.png: Predicted in 0.116930 seconds. - esperado 8
+data/dataset/f19.png: Predicted in 0.116930 seconds.
 car: 86%
 
-data/dataset/f20.png: Predicted in 0.116625 seconds. - esperado 4
+data/dataset/f20.png: Predicted in 0.116625 seconds.
 motorbike: 25%
 
-data/dataset/f21.png: Predicted in 0.113950 seconds. - esperado 6
+data/dataset/f21.png: Predicted in 0.113950 seconds.
 car: 31%
 
-data/dataset/f22.png: Predicted in 0.114427 seconds. - esperado 9
+data/dataset/f22.png: Predicted in 0.114427 seconds.
 car: 82%
 
-data/dataset/f23.png: Predicted in 0.115092 seconds. - esperado 3
+data/dataset/f23.png: Predicted in 0.115092 seconds.
 car: 61%
 car: 21%
 
-data/dataset/f24.png: Predicted in 0.114239 seconds. - esperado 4
+data/dataset/f24.png: Predicted in 0.114239 seconds.
 car: 35%
 
-data/dataset/f25.png: Predicted in 0.116588 seconds. - esperado 4
+data/dataset/f25.png: Predicted in 0.116588 seconds.
 nada
 
-data/dataset/f26.png: Predicted in 0.116626 seconds. - esperado 4
+data/dataset/f26.png: Predicted in 0.116626 seconds.
 train: 22% - errado (muro)
 
-data/dataset/f27.png: Predicted in 0.114417 seconds. - esperado 8
+data/dataset/f27.png: Predicted in 0.114417 seconds.
 car: 33%
 car: 26%
 
-data/dataset/f28.png: Predicted in 0.114807 seconds. - esperado 5
+data/dataset/f28.png: Predicted in 0.114807 seconds.
 car: 42%
 
-data/dataset/f29.png: Predicted in 0.115114 seconds. - esperado 7
+data/dataset/f29.png: Predicted in 0.115114 seconds.
 car: 59%
 
-data/dataset/f30.png: Predicted in 0.113563 seconds. - esperado 2
+data/dataset/f30.png: Predicted in 0.113563 seconds.
 person: 25%
 car: 72%
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
